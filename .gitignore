@@ -1,0 +1,9 @@
+build/
+Testing/
+log.txt
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
